@@ -19,18 +19,18 @@ plugin:
     Art Showcase is a stylish single page Crafter CMS blueprint with video backgrounds.
   website:
     name: "Art Showcase"
-    url: https://github.com/rivetlogic/craftercms-bp-artshowcase.git
+    url: https://github.com/craftersoftware/craftercms-bp-artshowcase
   media:
     screenshots:
       - title: Home Page
         description: Screenshot of the home page
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-artshowcase/master/static-assets/images/screenshots/bp_artshowcase_homepage.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-artshowcase/4/static-assets/images/screenshots/bp_artshowcase_homepage.png"
       - title: Gallery Page
         description: Screenshot of the home page
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-artshowcase/master/static-assets/images/screenshots/bp_artshowcase_gallery.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-artshowcase/4/static-assets/images/screenshots/bp_artshowcase_gallery.png"
       - title: Testimonials/Contact Page
         description: Screenshot of the home page
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-artshowcase/master/static-assets/images/screenshots/bp_artshowcase_testimonials_contact.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-artshowcase/4/static-assets/images/screenshots/bp_artshowcase_testimonials_contact.png"
   developer:
     company:
       name: Rivet Logic
